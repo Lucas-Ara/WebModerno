@@ -1,0 +1,3 @@
+const a = 3;
+// variável constante...
+console.log(a);
